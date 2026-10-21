@@ -1,1 +1,2 @@
-# siti-nurazizah-
+# siti-nurazizah
+crud -data barang 
